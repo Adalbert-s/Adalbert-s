@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adalberto and I'm a Computer Science student and software developer from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Adalberto (Dalo) and I'm a Computer Science student and software developer from Brazil.</h2>
 
 Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práticas. Tenho experiência com desenvolvimento web, mobile e APIs, além de projetos com Django, Node.js, C#, Python e Android. Gosto de desafios e estou sempre em busca de aprender mais.
 
@@ -8,10 +8,6 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
   <img src="https://github-readme-stats.vercel.app/api?username=Adalbert-s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -42,11 +38,18 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/adalberto-santos-182a61246/" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:adalbertosantospinheiro@outlook.com">
+  <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
 
+###
+
+<br clear="both" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
