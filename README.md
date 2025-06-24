@@ -50,8 +50,3 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
   </a>
 </div>
 
-###
-
-<br clear="both" />
-
-###
