@@ -4,13 +4,21 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Adalbert-s&theme=dracula&no-bg=false&no-frame=false&title=Commits,Stars,Followers,Issues,PullRequest&margin-w=8&margin-h=8" alt="trophies top row" />
     </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Adalbert-s&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Adalbert-s&theme=dracula&no-bg=false&no-frame=false&title=Repositories,RepositoriesPrivate,Gists,Contributions&margin-w=8&margin-h=8" alt="trophies bottom row" />
     </td>
   </tr>
 </table>
