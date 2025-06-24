@@ -54,6 +54,4 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
