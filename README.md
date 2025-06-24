@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adalberto (Dalo) and I'm a Computer Science student and software developer from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Adalberto and I'm a Computer Science student and software developer from Brazil.</h2>
 
 Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práticas. Tenho experiência com desenvolvimento web, mobile e APIs, além de projetos com Django, Node.js, C#, Python e Android. Gosto de desafios e estou sempre em busca de aprender mais.
 
@@ -13,11 +13,11 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
       <img src="https://github-readme-stats.vercel.app/api?username=Adalbert-s&show_icons=true&theme=dracula&card_width=250&hide_border=false" height="130" alt="github stats" />
     </td>
     <td valign="middle" align="center" style="padding-left: 20px;">
-      <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/adalberto-santos-182a61246/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
       </a>
       <br /><br />
-      <a href="mailto:seu-email@gmail.com">
+      <a href="mailto:adalbertosantospinheiro@outlook.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
       </a>
     </td>
