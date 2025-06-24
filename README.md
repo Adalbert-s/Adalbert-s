@@ -4,16 +4,13 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Adalbert-s&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adalbert-s&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="130" alt="trophy graph" />
+</div>
 
 ###
 
