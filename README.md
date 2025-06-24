@@ -4,9 +4,16 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções práti
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adalbert-s&locale=pt-br&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Adalbert-s&show_icons=true&theme=dracula&hide_border=false" height="130" alt="github stats" />
+    </td>
+  </tr>
+</table>
 
 
 <div align="center" style="margin-top: 10px;">
